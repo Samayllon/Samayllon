@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samuel! <br/><a href="https://github.com/Samayllon">MBA</a>, <a href="https://www.linkedin.com/in/samuel-ayllon/">Cybersecurity</a>
+<h1>Hi, I'm Samuel! <br/><a href="https://github.com/Samayllon">MBA</a>, <a href="https://www.linkedin.com/in/samuel-ayllon/">threat Researcher</a>
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -6,6 +6,7 @@
 
 <h2>💻 Certifications:</h2>
 (https://www.credly.com/badges/59dd5227-2cf6-4c5d-b626-fd5a8d73ea89)
+
 (https://www.credly.com/badges/1052dce1-ff0d-4f1f-b662-537749b2e1b8)
 
 <h2>📺 Popular YouTube Videos</h2>
