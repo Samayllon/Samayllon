@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samuel! <br/><a href="https://github.com/Samayllon">CEH</a>, <a href="https://www.linkedin.com/in/samuel-ayllon/">Threat Researcher</a>
+<h1>Hi, I'm Samuel! <br/><a href="https://github.com/Samayllon">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/samuel-ayllon/">Threat Researcher</a>
 
 <h2>👨‍💻 Projects:</h2>
 
